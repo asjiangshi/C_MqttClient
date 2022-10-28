@@ -1,0 +1,2 @@
+E:\EditProgram\C#\MqttClient\MqttClient\bin\single\MqttClient.pdb
+E:\EditProgram\C#\MqttClient\MqttClient\bin\single\MqttClient.exe
